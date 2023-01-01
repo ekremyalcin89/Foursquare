@@ -1,1 +1,1 @@
-dummy data viewer test. 
+Foursquare clone with dummy data api 
